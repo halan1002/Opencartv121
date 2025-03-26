@@ -1,0 +1,2 @@
+22:40:41.568 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@795fd838: 4 ms
+22:40:41.571 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@31da6b2e: 0 ms
